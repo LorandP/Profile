@@ -5,29 +5,25 @@
         android:id="@+id/profile"
         android:enabled="true"
         android:icon="@drawable/ic_people_outline_black_24dp"
-        app:showAsAction="ifRoom"
         android:title=""
-        />
+        app:showAsAction="ifRoom" />
     <item
         android:id="@+id/friends"
         android:enabled="true"
         android:icon="@drawable/ic_person_black_24dp"
-        app:showAsAction="ifRoom"
         android:title=""
-        />
+        app:showAsAction="ifRoom" />
     <item
         android:id="@+id/circle"
         android:enabled="true"
         android:icon="@drawable/ic_panorama_fish_eye_black_24dp"
-        app:showAsAction="ifRoom"
         android:title=""
-        />
+        app:showAsAction="ifRoom" />
     <item
         android:id="@+id/settings"
         android:enabled="true"
         android:icon="@drawable/setting_white"
-        app:showAsAction="ifRoom"
         android:title=""
-        />
+        app:showAsAction="ifRoom" />
 
 </menu>

@@ -2,10 +2,13 @@
     <string name="app_name">Profile Screen</string>
     <string name="based_in">Based in</string>
     <string name="location">Cluj-Napoca, Romania</string>
-    <string name="position">Junior Android Developer \nat</string>
+    <string name="position">Junior Android Developer \n\t\t\tat</string>
     <string name="company_name">The Arktech</string>
     <string name="company_website">www.thearktech.com</string>
     <string name="email">lorand.palfalvi@thearktech.eu</string>
     <string name="birthday_date">January 18, 1991</string>
     <string name="name">Palfalvi Lorand</string>
+    <string name="second_layout">Second Layout</string>
+    <string name="third_layout">Third Layout</string>
+    <string name="forth_layout">Forth Layout</string>
 </resources>
